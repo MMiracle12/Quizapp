@@ -18,7 +18,7 @@ class StartScreen extends StatelessWidget {
           ),
           const SizedBox(height: 80),
           const Text(
-            'Learn flutter the fun way !',
+            'Learn flutter !',
             style: TextStyle(
               color: Colors.white,
               fontSize: 24,
